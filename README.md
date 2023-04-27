@@ -5,7 +5,7 @@
 - 📫 平时可以承接一些兼职
 
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=YaKun9&show_icons=true&theme=radical)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=YaKun9&show_icons=true&theme=radical&count_private=true)
 
 
 <!---
