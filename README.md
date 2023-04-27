@@ -7,10 +7,7 @@
 
 <div>
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YaKun9&count_private=true&show_icons=true&hide=issues&layout=compact&hide_border=true" />
-<!---
-暂时没有仓储，先隐藏
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakun9&layout=compact&hide_border=true" />
---->
 </div>
 
 <!---
