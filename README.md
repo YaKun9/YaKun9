@@ -2,7 +2,7 @@
 - 👀 一个比较简单的.NET程序员
 - 🌱 正在努力的学习各类技术
 - 💞️ 希望能为.NET社区建设发展奉献一份力量
-- 📫 平时可以承接一些兼职
+- 📫 如果您有合作意向，请邮件联系我
 
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=YaKun9&show_icons=true&theme=radical&count_private=true)
