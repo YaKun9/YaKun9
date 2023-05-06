@@ -7,7 +7,7 @@
 
 <div>
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YaKun9&count_private=true&show_icons=true&hide=issues&layout=compact&hide_border=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakun9&layout=compact&hide_border=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakun9&hide_border=true" />
 </div>
 <!---
 YaKun9/YaKun9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
